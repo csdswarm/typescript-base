@@ -43,12 +43,11 @@
     }
   },
   "keywords": [
-    "plugin",
-    "data",
-    "coupling",
-    "share",
-    "asynchronous",
-    "framework"
+    "typescript",
+    "base",
+    "skeleton",
+    "barebones",
+    "template"
   ],
   "author": "Christopher Strolia-Davis <the-javascriptor@unite-the.world>",
   "license": "MIT",
